@@ -6,7 +6,13 @@ environment:
   sdk: '>=2.14.3 <3.0.0'
 
 
-dependencies:
+dependencies: 
+  colorize: ^3.0.0
+  dotenv: ^3.0.0
+  mc_rcon: ^1.0.0
+  nyxx: ^3.0.0
+  nyxx_commands: ^3.0.0
+  process_run: ^0.12.3+1
 
 dev_dependencies:
   lints: ^1.0.0
